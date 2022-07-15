@@ -1,0 +1,96 @@
+body nav a.navbar-brand {
+  font-family: "Parisienne", cursive;
+  font-weight: bold;
+}
+
+body nav {
+  background-color: #c6d6b9;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+nav div.collapse ul li a {
+  font-family: "Parisienne";
+  color: rgb(18, 17, 17);
+  font-weight: bold;
+  font-size: large;
+}
+
+nav div.collapse ul li a:hover {
+  font-family: "Parisienne";
+  font-weight: bolder;
+  font-size: x-large;
+  transition: 0.3s;
+}
+
+svg.pertama {
+  margin-top: 80px;
+}
+
+.pembuka {
+  background-color: #c6d6b9;
+}
+
+.tanggal {
+  font-family: "Edu VIC WA NT Beginner";
+  color: white;
+}
+.pembuka .judul {
+  font-family: "Edu VIC WA NT Beginner";
+  color: rgb(0, 0, 0);
+  background-color: #c6d6b9;
+}
+
+section.doa {
+  background-color: white;
+  font-family: "Edu VIC WA NT Beginner";
+}
+
+.profil {
+  background-color: #c6d6b9;
+}
+
+.profil .judulprofil {
+  font-family: "Edu VIC WA NT Beginner";
+  text-align: center;
+  color: black;
+}
+
+.profil .namacalon {
+  font-family: "Edu VIC WA NT Beginner";
+  font-size: 20px;
+}
+
+.galleri .judulgaleri {
+  font-family: "Edu VIC WA NT Beginner";
+  color: black;
+}
+
+.lokasi {
+  background-color: #c6d6b9;
+}
+
+.lokasi .judullokasi {
+  font-family: "Edu VIC WA NT Beginner";
+  color: black;
+}
+
+.lokasi .judullokasi a {
+  text-align: start;
+  text-decoration: none;
+  color: black;
+}
+
+footer {
+  font-family: "Edu VIC WA NT Beginner";
+  color: black;
+}
+
+footer p a {
+  text-decoration: none;
+  color: black;
+}
+footer p a:hover {
+  text-decoration: none;
+  color: black;
+}
