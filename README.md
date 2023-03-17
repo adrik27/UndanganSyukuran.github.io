@@ -1,5 +1,5 @@
 # Undangan Online
-- Undangan online ini adalah undangan yang pernikahan atau syukuran yang dimana pada website ini hanya untuk memberikan sebuah informasi mengenai pernikahan
+- Undangan online ini adalah undangan pernikahan atau syukuran yang dimana pada website ini hanya untuk memberikan sebuah informasi mengenai pernikahan
 ---
 # Bahasa Pemrograman yang digunakan
 - HTML
